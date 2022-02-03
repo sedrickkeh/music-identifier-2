@@ -3,7 +3,6 @@ os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame
 from piecelist import get_piece
 from player import play_music, stop_music
-import keyboard 
 import threading
 
 # mixer config
